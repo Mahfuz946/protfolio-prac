@@ -1,0 +1,51 @@
+body{
+    background-image: url(images/blackside.png);
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+    color: rgb(240, 226, 200);
+}
+h3{
+    color: rgb(240, 226, 200);
+}
+p{
+    color: thistle;
+}
+.text-color{
+    color: skyblue;
+}
+section{
+    height: 450px;
+}
+.half-width{
+    width: 35%;
+    margin-left: 9%;
+    padding-left: 5%;
+    padding-top: 3%;
+    float: left;
+}
+.half-width img{
+    width: 80%;
+    height: 400px;
+
+}
+.button{
+    background-image: linear-gradient(45deg,rgb(240, 226, 200), skyblue);
+    text-decoration: none;
+    padding: 8px 18px;
+    color: black;
+    border-radius: 8px;
+}
+.my-experience{
+    padding-top: 7%;
+}
+.experience{
+    padding-top: 5%;
+    box-shadow: 5px 10px 40px;
+    border-radius: 15%;
+    height: 200px;
+}
+footer{
+    text-align: center;
+}
